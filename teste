@@ -1,0 +1,577 @@
+Nome do Projeto
+
+Food Wise 
+ETAPA 1 – ESCOLHA DO PROBLEMA
+Aplicativo de Receitas Inteligentes para Combater o Desperdício de Alimentos
+Problema Identificado
+O desperdício de alimentos é um dos grandes problemas da sociedade hoje em dia. Muita gente compra comida demais, acaba esquecendo produtos na geladeira ou simplesmente não sabe como usar antes de vencer. Com isso, frutas, verduras, legumes, carnes e outros alimentos acabam sendo jogados fora todos os dias, o que gera prejuízo no bolso das famílias e ainda prejudica o meio ambiente.
+Além disso, várias pessoas têm dificuldade para organizar suas refeições e acabam comprando coisas que nem vão usar, o que aumenta ainda mais o desperdício.
+Público Afetado
+O projeto é voltado para:
+Famílias que querem economizar nas compras.
+Pessoas que moram sozinhas.
+Estudantes universitários.
+Casais.
+Pessoas que buscam uma alimentação mais saudável.
+Consumidores preocupados com sustentabilidade.
+Pequenos comércios de alimentos que querem evitar perdas.
+Justificativa
+O desperdício de alimentos causa perdas econômicas, sociais e ambientais. Muitas vezes, alimentos que ainda estão bons acabam sendo jogados fora só por falta de planejamento ou de ideias de como preparar as refeições.
+A ideia desse projeto é criar um aplicativo que ajude as pessoas a aproveitarem melhor os ingredientes que já têm em casa. O sistema vai sugerir receitas personalizadas, avisar quando algum alimento estiver perto de vencer, organizar listas de compras e incentivar hábitos de consumo mais conscientes.
+Com essa solução, a expectativa é diminuir o desperdício de alimentos, ajudar as pessoas a economizarem dinheiro, incentivar uma alimentação mais saudável e apoiar práticas mais sustentáveis.
+O projeto também mostra como a tecnologia pode ser usada para resolver problemas do dia a dia de um jeito simples, prático e acessível, trazendo benefícios tanto para os usuários quanto para a sociedade.
+
+ETAPA 2 – CRIAÇÃO DA SOLUÇÃO
+Solução Proposta
+Nome do Aplicativo
+FoodWise 
+Sabor inteligente, desperdício zero.
+O que será desenvolvido?
+O projeto consiste no desenvolvimento de um aplicativo chamado Food Wise, criado para ajudar as pessoas a aproveitar melhor os alimentos que já possuem em casa. A ideia é diminuir o desperdício por meio de sugestões de receitas, organização da despensa e planejamento das refeições.
+O aplicativo será destinado principalmente a pessoas que desejam economizar nas compras, manter uma alimentação equilibrada e adotar hábitos mais sustentáveis no dia a dia.
+Como funciona?
+Após criar uma conta, o usuário poderá cadastrar os alimentos que tem em casa, informando, se desejar, a data de validade de cada um.
+Com essas informações, o aplicativo analisa os ingredientes disponíveis e apresenta receitas que podem ser preparadas sem a necessidade de comprar muitos itens extras. Se algum ingrediente estiver faltando, o sistema poderá sugerir alternativas para substituí-lo.
+Além disso, o usuário poderá organizar um cardápio para a semana, criar listas de compras e receber lembretes sobre alimentos que estão próximos do vencimento.
+Principais funcionalidades
+Cadastro de usuários.
+Registro dos alimentos disponíveis.
+Controle da validade dos produtos.
+Sugestão de receitas conforme os ingredientes cadastrados.
+Lista de compras automática.
+Planejamento semanal das refeições.
+Receitas favoritas.
+Notificações para evitar o vencimento dos alimentos.
+Informações nutricionais das receitas.
+Dicas para conservar melhor os alimentos.
+Benefícios
+O EcoChef pretende facilitar a rotina dos usuários, trazendo vantagens como:
+Menor desperdício de alimentos.
+Economia nas compras do mês.
+Mais praticidade na hora de cozinhar.
+Melhor organização da despensa.
+Incentivo a uma alimentação mais saudável.
+Aproveitamento completo dos ingredientes disponíveis.
+Contribuição para a preservação do meio ambiente.
+Diferenciais
+O principal diferencial do EcoChef é reunir várias ferramentas em um único aplicativo. Em vez de apenas oferecer receitas, ele também auxilia na organização dos alimentos e no planejamento das refeições.
+Entre os destaques estão:
+Receitas baseadas nos ingredientes disponíveis.
+Alertas de validade dos alimentos.
+Lista de compras criada automaticamente.
+Sugestões de substituição de ingredientes.
+Interface simples e fácil de usar.
+Acompanhamento da economia gerada com a redução do desperdício.
+Tecnologias previstas
+Para o desenvolvimento do projeto, poderão ser utilizadas as seguintes tecnologias:
+React Native para o aplicativo móvel.
+React para a versão web.
+Node.js no desenvolvimento do servidor.
+PostgreSQL ou Firebase para armazenamento dos dados.
+APIs de receitas para ampliar o catálogo disponível.
+Resultado esperado
+Espera-se que o EcoChef ajude os usuários a organizar melhor seus alimentos, reduzir o desperdício e economizar dinheiro. Além disso, o aplicativo busca incentivar práticas mais sustentáveis, mostrando que pequenas mudanças na rotina podem trazer benefícios tanto para as famílias quanto para o meio ambiente.
+
+ETAPA 3 – MODELO DE NEGÓCIO
+Proposta de Valor
+O Foodwise foi criado para ajudar as pessoas a aproveitarem melhor os alimentos que já possuem em casa. O aplicativo facilita o planejamento das refeições, reduz o desperdício de comida e ajuda na economia das compras do dia a dia. Além disso, incentiva hábitos mais sustentáveis, mostrando que é possível economizar sem abrir mão de uma alimentação de qualidade.
+Segmento de Clientes
+O aplicativo será voltado para diferentes perfis de usuários, como:
+Famílias que desejam economizar nas compras.
+Pessoas que moram sozinhas.
+Estudantes.
+Casais.
+Pessoas interessadas em alimentação saudável.
+Consumidores preocupados com sustentabilidade.
+Pequenos estabelecimentos que desejam controlar melhor seus alimentos.
+Relacionamento com os Clientes
+O relacionamento com os usuários será realizado principalmente por meio do próprio aplicativo. Os clientes poderão receber notificações, dicas de receitas, lembretes sobre alimentos próximos do vencimento e atualizações com novas funcionalidades.
+Também serão disponibilizados canais de atendimento para esclarecer dúvidas, receber sugestões e solucionar possíveis problemas.
+Canais
+O Food Wise estará disponível por meio de diferentes canais, como:
+Aplicativo para Android.
+Aplicativo para iOS.
+Site oficial com informações sobre a plataforma.
+Redes sociais para divulgação de conteúdos, receitas e novidades.
+E-mail para atendimento e suporte aos usuários.
+Fontes de Receita
+O projeto poderá gerar receita de diferentes maneiras:
+Assinatura da versão Premium, com recursos exclusivos.
+Espaços para anúncios de empresas do setor alimentício.
+Parcerias com supermercados e hortifrutis.
+Programa de afiliados para produtos relacionados à alimentação.
+Venda de planos para pequenos restaurantes e estabelecimentos comerciais.
+Recursos-Chave
+Para que o aplicativo funcione corretamente, serão necessários:
+Equipe de desenvolvimento de software.
+Banco de dados para armazenar as informações dos usuários.
+Servidores para hospedagem da plataforma.
+Catálogo de receitas.
+Equipe de suporte ao cliente.
+Profissionais responsáveis pelo marketing e divulgação.
+Atividades-Chave
+As principais atividades da empresa serão:
+Desenvolvimento e atualização do aplicativo.
+Cadastro e organização das receitas.
+Atendimento aos usuários.
+Divulgação da plataforma nas redes sociais.
+Monitoramento do funcionamento do sistema.
+Desenvolvimento de novas funcionalidades.
+Parcerias
+Algumas parcerias poderão fortalecer o projeto, como:
+Supermercados.
+Hortifrutis.
+Nutricionistas.
+Empresas de tecnologia.
+Criadores de conteúdo sobre alimentação.
+Fornecedores de APIs de receitas.
+Estrutura de Custos
+Os principais custos previstos para o funcionamento do Food Wise são:
+Desenvolvimento do aplicativo.
+Hospedagem dos servidores.
+Registro de domínio.
+Manutenção do sistema.
+Marketing e publicidade.
+Atendimento ao cliente.
+Atualizações e melhorias da plataforma.
+Custos administrativos.
+Conclusão
+O modelo de negócio do Food Wise foi pensado para oferecer uma solução útil e acessível aos usuários, ao mesmo tempo em que garante possibilidades de crescimento e geração de receita para a empresa. A combinação entre tecnologia, sustentabilidade e praticidade torna o aplicativo uma alternativa interessante para quem busca reduzir o desperdício de alimentos e organizar melhor a rotina na cozinha.
+ETAPA 4 – PESQUISA DE MERCADO
+Pesquisa de Mercado
+Antes do desenvolvimento do Food Wise , foi realizada uma pesquisa para conhecer alguns aplicativos que oferecem funcionalidades relacionadas a receitas, organização da alimentação e redução do desperdício. Essa análise permitiu identificar oportunidades de melhoria e definir os diferenciais do projeto.
+Principais Concorrentes
+1. TudoGostoso
+É uma das maiores plataformas de receitas do Brasil. Possui milhares de receitas enviadas pelos próprios usuários, com avaliações e comentários.
+Pontos fortes:
+Grande variedade de receitas.
+Interface simples e fácil de usar.
+Comunidade ativa de usuários.
+Pontos fracos:
+Não controla os alimentos disponíveis na casa do usuário.
+Não possui alertas de validade.
+Não gera listas de compras inteligentes.
+2. SuperCook
+É um aplicativo que permite informar os ingredientes disponíveis e sugere receitas compatíveis.
+Pontos fortes:
+Sugestão de receitas com base nos ingredientes cadastrados.
+Ajuda a aproveitar melhor os alimentos.
+Pontos fracos:
+Interface disponível principalmente em inglês.
+Poucas funcionalidades além da busca de receitas.
+Não oferece planejamento de refeições.
+3. Cookpad
+O Cookpad funciona como uma rede social de culinária, onde os usuários compartilham receitas e dicas de preparo.
+Pontos fortes:
+Grande quantidade de receitas.
+Participação ativa da comunidade.
+Compartilhamento de experiências.
+Pontos fracos:
+Não possui controle da despensa.
+Não acompanha a validade dos alimentos.
+Não auxilia no planejamento das compras.
+4. Mealime
+Aplicativo voltado para o planejamento das refeições e criação de listas de compras.
+Pontos fortes:
+Organização do cardápio semanal.
+Geração automática da lista de compras.
+Interface moderna.
+Pontos fracos:
+Recursos completos disponíveis apenas na versão paga.
+Conteúdo voltado principalmente ao público internacional.
+Não possui foco específico na redução do desperdício.
+Público-Alvo
+O food wise  será direcionado principalmente para pessoas entre 18 e 60 anos que utilizam smartphones e desejam organizar melhor sua alimentação.
+Os principais perfis de usuários são:
+Famílias.
+Pessoas que moram sozinhas.
+Estudantes.
+Casais.
+Pessoas que gostam de cozinhar.
+Consumidores preocupados com a economia.
+Pessoas interessadas em alimentação saudável e sustentabilidade.
+Tendências do Mercado
+O mercado de aplicativos relacionados à alimentação continua em crescimento. Entre as principais tendências estão:
+Planejamento digital das refeições.
+Uso de inteligência artificial para sugestões personalizadas.
+Incentivo ao consumo consciente.
+Maior procura por alimentação saudável.
+Ferramentas que ajudam na economia doméstica.
+Soluções voltadas para sustentabilidade e redução do desperdício.
+Essas tendências mostram que existe espaço para aplicativos que ofereçam mais praticidade e auxiliem os usuários na organização da rotina alimentar.
+Diferenciais Competitivos do Food Wise Após analisar os concorrentes, foi possível identificar algumas características que tornam o EcoChef uma proposta diferenciada.
+Controle da validade dos alimentos.
+Organização da despensa em um único lugar.
+Sugestão de receitas utilizando os ingredientes disponíveis.
+Alertas para evitar o vencimento dos alimentos.
+Planejamento semanal das refeições.
+Lista de compras criada automaticamente.
+Informações sobre a economia gerada com o melhor aproveitamento dos alimentos.
+Interface simples, intuitiva e em português.
+Oportunidades
+A pesquisa mostra que muitos aplicativos oferecem apenas receitas ou apenas planejamento de refeições. O Food Wise pretende reunir essas funcionalidades em uma única plataforma, facilitando o dia a dia dos usuários.
+Além disso, o aumento da preocupação com sustentabilidade, alimentação saudável e economia doméstica cria um cenário favorável para um aplicativo com essa proposta. Isso amplia as possibilidades de crescimento, parcerias com supermercados, nutricionistas e produtores locais, além da expansão para novos recursos no futuro.
+Conclusão
+A pesquisa de mercado demonstrou que existem aplicativos com funcionalidades semelhantes, porém poucos oferecem uma solução completa voltada para o aproveitamento dos alimentos. Dessa forma, o Food wise possui potencial para se destacar ao reunir organização, economia, praticidade e sustentabilidade em um único aplicativo.
+
+ETAPA 5 – DEFINIÇÃO DA EMPRESA
+Empresa
+Nome da Empresa
+Food wise  Tecnologia Alimentar
+Slogan
+Sabor inteligente, desperdício zero.
+Missão
+Desenvolver soluções tecnológicas que ajudem as pessoas a aproveitar melhor os alimentos, reduzindo o desperdício, incentivando hábitos mais sustentáveis e tornando o planejamento das refeições mais simples e prático.
+Visão
+Ser reconhecida como uma empresa inovadora na área de tecnologia para alimentação, oferecendo ferramentas que contribuam para a economia doméstica, a sustentabilidade e a melhoria da qualidade de vida das pessoas.
+Valores
+A Food wise baseia suas atividades nos seguintes valores:
+Sustentabilidade.
+Inovação.
+Responsabilidade social.
+Ética e transparência.
+Compromisso com o cliente.
+Qualidade.
+Respeito às pessoas e ao meio ambiente.
+Aprendizado e melhoria contínua.
+História da Empresa
+A Food wise Tecnologia Alimentar surgiu a partir da observação de um problema comum em muitas casas: o desperdício de alimentos. Durante pesquisas sobre consumo consciente, foi possível perceber que muitas pessoas compram alimentos em excesso ou esquecem produtos armazenados na geladeira e na despensa, resultando em perdas que poderiam ser evitadas.
+Pensando nessa realidade, surgiu a ideia de desenvolver um aplicativo capaz de ajudar os usuários a organizar melhor os alimentos que possuem em casa. O objetivo era criar uma ferramenta simples, prática e acessível, que sugerisse receitas de acordo com os ingredientes disponíveis e lembrasse o usuário sobre alimentos próximos da data de vencimento.
+Desde o início, a proposta da Food wise foi unir tecnologia e sustentabilidade para facilitar a rotina das pessoas. Além de incentivar uma alimentação mais organizada, o aplicativo também busca reduzir gastos desnecessários e contribuir para a preservação do meio ambiente.
+Embora seja uma empresa criada como parte deste projeto, sua estrutura foi planejada para representar um negócio com potencial de crescimento, inovação e impacto positivo na sociedade.
+Objetivos da Empresa
+A Food Wise  pretende alcançar os seguintes objetivos:
+Reduzir o desperdício de alimentos nas residências.
+Incentivar o consumo consciente.
+Ajudar os usuários a economizar nas compras.
+Facilitar o planejamento das refeições.
+Promover hábitos alimentares mais saudáveis.
+Investir constantemente em inovação e novas funcionalidades para o aplicativo.
+Compromisso com a Sociedade
+A Food Wise acredita que pequenas mudanças na rotina podem gerar grandes resultados. Por isso, busca oferecer uma solução que beneficie não apenas os usuários, mas também o meio ambiente.
+Ao incentivar o melhor aproveitamento dos alimentos, a empresa contribui para a redução do desperdício, diminui o descarte de resíduos e promove uma cultura de consumo mais responsável, mostrando que tecnologia e sustentabilidade podem caminhar juntas.
+
+
+
+
+ETAPA 6 – IDENTIDADE VISUAL
+Identidade da Marca
+A identidade visual da Food Wise  Tecnologia Alimentar foi criada para representar os principais objetivos da empresa: sustentabilidade, inovação e praticidade. A proposta é transmitir confiança ao usuário e mostrar que a tecnologia pode ajudar no aproveitamento dos alimentos de uma forma simples e eficiente.
+As cores, a tipografia e os elementos gráficos foram escolhidos para criar uma marca moderna, agradável e fácil de reconhecer.
+Logotipo
+Logotipo Principal
+O logotipo da Food Wise é formado por um símbolo que une uma folha e um garfo, representando a ligação entre natureza, alimentação e tecnologia. Ao lado do símbolo aparece o nome Food wise, com o slogan "Sabor inteligente, desperdício zero."
+Essa composição facilita a identificação da marca e reforça sua proposta.
+Versão Reduzida
+Quando houver pouco espaço, será utilizada apenas a folha com o garfo ou a inicial E estilizada. Essa versão é ideal para o ícone do aplicativo, redes sociais e outros locais onde o logotipo completo não cabe.
+Versão Monocromática
+Também foi criada uma versão em preto e branco para documentos, uniformes e materiais impressos em apenas uma cor.
+O verde foi escolhido por lembrar natureza e sustentabilidade. O laranja transmite energia e criatividade, enquanto o cinza passa uma imagem de tecnologia e profissionalismo. Já o branco ajuda a deixar o visual mais limpo e organizado.
+Tipografia
+Fonte Principal
+A fonte escolhida para títulos e para o logotipo foi a Montserrat, pois possui um visual moderno e boa leitura.
+Fonte Secundária
+Nos textos e informações do aplicativo será utilizada a Open Sans, que é uma fonte simples, agradável e facilita a leitura em telas e documentos.
+Elementos Gráficos
+Além do logotipo, a identidade da Food Wise contará com alguns elementos que ajudam a fortalecer a marca.
+Ícones
+Serão utilizados ícones simples para representar funções como:
+Receitas
+Lista de compras
+Favoritos
+Validade dos alimentos
+Calendário
+Perfil do usuário
+Economia
+Sustentabilidade
+Padrões
+Também serão utilizados pequenos desenhos com folhas, frutas, legumes e utensílios de cozinha para decorar materiais da empresa sem deixar o visual pesado.
+Formas
+As formas predominantes serão arredondadas e orgânicas, transmitindo leveza e proximidade com o público.
+Elementos de Apoio
+A identidade visual poderá utilizar ilustrações, botões arredondados, selos ecológicos e pequenos detalhes em verde e laranja para manter um padrão em todos os materiais.
+Manual da Marca
+Uso Correto
+Para manter a identidade visual da Food Wise, o logotipo deve sempre conservar suas proporções, utilizar as cores oficiais e ser aplicado em locais onde fique bem visível. Também é importante respeitar o espaço ao redor da marca para evitar poluição visual.
+Uso Incorreto
+Não é recomendado:
+esticar ou comprimir o logotipo;
+trocar as cores da marca;
+mudar a fonte utilizada;
+girar o símbolo;
+aplicar sombras ou efeitos exagerados;
+colocar a marca sobre imagens que dificultem sua leitura.
+Área de Proteção
+Ao redor do logotipo deve existir um espaço livre equivalente à altura da letra F do nome Food Wise . Isso garante que a marca fique destacada e fácil de visualizar.
+Tamanho Mínimo
+Para evitar perda de qualidade, recomenda-se utilizar o logotipo com no mínimo:
+25 mm de largura em materiais impressos;
+120 pixels em aplicações digitais.
+Aplicações
+A identidade visual poderá ser utilizada em diversos materiais, como:
+aplicativo para celular;
+site oficial;
+cartão de visita;
+camisetas e aventais;
+sacolas ecológicas;
+canecas;
+redes sociais;
+banners;
+embalagens;
+papel timbrado;
+assinatura de e-mail.
+
+Conclusão
+A identidade visual da Food  foi desenvolvida para representar uma empresa moderna, preocupada com a sustentabilidade e com a qualidade de vida das pessoas. A combinação das cores, do logotipo e dos demais elementos cria uma marca de fácil reconhecimento e ajuda a transmitir a ideia de inovação e responsabilidade ambiental. Dessa forma, a empresa consegue fortalecer sua imagem e se aproximar do público que busca praticidade, economia e um consumo mais consciente.
+Essa versão tem uma escrita mais natural e se parece muito mais com um trabalho produzido por um estudante do que com um texto gerado integralmente por IA, mantendo um nível adequado para apresentação escolar ou universitária.
+
+
+
+
+Etapa 7 – Materiais Institucionais
+
+
+
+
+
+
+                         Etapa 8 – Presença Digital
+
+
+
+
+
+               Etapa 9 – Plano de Marketing
+
+
+
+Como todo o projeto é sobre o Food Wise  Tecnologia Alimentar, a Etapa 9 deve manter a mesma identidade. Abaixo está um plano de marketing completo, escrito em linguagem natural, como um trabalho acadêmico.
+ETAPA 9 – PLANO DE MARKETING
+Público-alvo
+O food wise  foi desenvolvido para pessoas que desejam organizar melhor a alimentação, economizar nas compras e reduzir o desperdício de alimentos. O aplicativo atende principalmente usuários que utilizam smartphones no dia a dia e procuram soluções práticas para facilitar a rotina.
+O público-alvo é composto por:
+Pessoas entre 18 e 60 anos;
+Famílias;
+Casais;
+Pessoas que moram sozinhas;
+Estudantes universitários;
+Pessoas interessadas em alimentação saudável;
+Consumidores preocupados com sustentabilidade;
+Pequenos comerciantes que desejam controlar melhor seus estoques de alimentos.
+
+Persona
+Mariana Oliveira
+Idade: 29 anos
+Profissão: Analista Administrativa
+Estado civil: Casada
+Cidade: Porto Alegre – RS
+Renda: R$ 4.500,00
+Perfil
+Mariana trabalha em período integral e possui pouco tempo para cozinhar durante a semana. Muitas vezes compra alimentos que acabam vencendo na geladeira porque esquece de utilizá-los. Ela procura aplicativos que facilitem sua rotina, ajudem na economia doméstica e ofereçam receitas rápidas utilizando os ingredientes que já possui em casa.
+Objetivos
+Economizar dinheiro.
+Evitar desperdício de alimentos.
+Planejar melhor as refeições.
+Ter uma alimentação mais saudável.
+Organizar a despensa da casa.
+Dores
+Esquecer alimentos na geladeira.
+Comprar itens repetidos.
+Não saber o que cozinhar.
+Falta de tempo para organizar as refeições
+Posicionamento
+O food wise será posicionado como um aplicativo inteligente que une tecnologia, economia e sustentabilidade em uma única plataforma.
+A marca deseja ser reconhecida como uma solução moderna para quem busca aproveitar melhor os alimentos, reduzir desperdícios e tornar o planejamento das refeições mais simples e eficiente.
+Estratégias de Marketing
+Para divulgar o food wise e conquistar novos usuários serão utilizadas diversas estratégias de marketing digital.
+Marketing de Conteúdo
+Produção de conteúdos como:
+receitas utilizando poucos ingredientes;
+dicas para conservar alimentos;
+curiosidades sobre desperdício;
+economia doméstica;
+alimentação saudável.
+Redes Sociais
+Publicação frequente de conteúdos educativos, vídeos curtos, receitas e dicas práticas para aumentar o relacionamento com o público.
+Influenciadores Digitais
+Parcerias com nutricionistas, chefs de cozinha e criadores de conteúdo voltados para culinária e sustentabilidade.
+Programa de Indicação
+Usuários poderão indicar amigos e receber benefícios dentro do aplicativo, como acesso temporário aos recursos Premium.
+Promoções
+Durante o lançamento serão oferecidos descontos na assinatura Premium e campanhas especiais para novos usuários.
+E-mail Marketing
+Envio de novidades, receitas da semana, dicas de economia e informações sobre novas funcionalidades do aplicativo.
+Canais de Divulgação
+O food wise  utilizará diferentes canais para alcançar seu público.
+Redes Sociais
+Instagram
+Facebook
+TikTok
+LinkedIn
+Plataformas Digitais
+Site oficial
+Landing Page
+Blog com receitas e dicas
+Google Play Store
+Apple App Store
+Publicidade Online
+Google Ads
+Meta Ads (Facebook e Instagram)
+Parcerias
+Supermercados
+Hortifrutis
+Nutricionistas
+Academias
+Feiras de produtos orgânicos
+
+Período
+Campanha
+Objetivo
+Janeiro
+Organize sua alimentação
+Incentivar novos cadastros
+Fevereiro
+Desafio Sem Desperdício
+Engajar usuários
+Março
+Receitas Econômicas
+Aumentar o uso do aplicativo
+Abril
+Alimentação Sustentável
+Fortalecer a marca
+Maio
+Cozinhe com o que você tem
+Atrair novos usuários
+Junho
+Semana EcoChef
+Divulgação da versão Premium
+Julho
+Inverno sem Desperdício
+Compartilhar receitas sazonais
+Agosto
+Economia na Cozinha
+Mostrar economia gerada pelo app
+Setembro
+Mês da Sustentabilidade
+Reforçar os valores da empresa
+Outubro
+Desafio das Receitas Inteligentes
+Incentivar o compartilhamento de receitas
+Novembro
+Black Friday Eco Chef
+Promover assinaturas Premium
+Dezembro
+Ceia Inteligente
+Reduzir desperdícios nas festas de fim de ano
+
+Cronograma de Campanhas
+Objetivo do Plano de Marketing
+O plano de marketing da Food Wise  tem como objetivo aumentar o reconhecimento da marca, conquistar novos usuários e fortalecer o relacionamento com os clientes. A empresa busca mostrar que pequenas mudanças na forma de organizar os alimentos podem gerar economia, praticidade e benefícios para o meio ambiente. Por meio de estratégias digitais, conteúdo relevante e parcerias, a food wise  pretende se consolidar como uma referência em tecnologia voltada para alimentação sustentável.
+ETAPA 10 – PLANO FINANCEIRO
+Investimento Inicial
+Para colocar o food wise  em funcionamento, será necessário um investimento para desenvolver o aplicativo, criar a identidade visual, divulgar a marca e manter a estrutura inicial da empresa. Os valores apresentados são uma estimativa baseada em um projeto de pequeno porte.
+Item
+Valor (R$)
+Desenvolvimento do aplicativo
+30.000,00
+Criação da identidade visual
+3.000,00
+Registro da marca
+1.200,00
+Hospedagem e domínio (1 ano)
+1.800,00
+Equipamentos
+8.000,00
+Divulgação e marketing inicial
+10.000,00
+Capital de giro
+16.000,00
+Total do investimento inicial
+70.000,00
+
+Custos Fixos
+Os custos fixos são aqueles que a empresa precisa pagar todos os meses para manter o aplicativo funcionando, mesmo que o número de usuários não aumente.
+Despesa
+Valor (R$)
+Hospedagem dos servidores
+1.200,00
+Internet e softwares
+600,00
+Marketing digital
+3.000,00
+Atendimento ao cliente
+2.500,00
+Contabilidade
+800,00
+Salários da equipe
+15.000,00
+Despesas administrativas
+900,00
+Total mensal
+24.000,00
+
+Custos Variáveis
+Os custos variáveis mudam conforme o crescimento do aplicativo e a quantidade de usuários.
+Entre eles estão:
+taxas cobradas pelas plataformas de pagamento;
+investimentos em campanhas de divulgação;
+comissões pagas a parceiros;
+atualizações e melhorias do aplicativo;
+aumento da equipe de suporte quando necessário.
+Preço do Produto
+O food wise  contará com uma versão gratuita e outra paga.
+Plano Gratuito
+O usuário poderá utilizar recursos como:
+cadastro de alimentos;
+sugestões básicas de receitas;
+lista de compras;
+lembretes sobre a validade dos produtos.
+Plano Premium
+O plano Premium terá o valor de R$ 19,90 por mês.
+Nele, o usuário terá acesso a funções extras, como:
+receitas exclusivas;
+planejamento completo das refeições;
+relatórios de economia;
+informações nutricionais mais detalhadas;
+aplicativo sem anúncios;
+recursos inteligentes para personalizar as sugestões.
+Margem de Lucro
+Depois de descontar todas as despesas da empresa, a expectativa é obter uma margem de lucro em torno de 35%.
+Esse percentual pode aumentar com o crescimento da quantidade de assinantes, já que aplicativos digitais conseguem atender mais usuários sem elevar muito os custos.
+Ponto de Equilíbrio
+O ponto de equilíbrio representa o momento em que a empresa consegue pagar todas as suas despesas apenas com a receita obtida pelas assinaturas.
+Levando em consideração os custos mensais e o valor do plano Premium, estima-se que o food wise precise de aproximadamente 1.850 assinantes para atingir esse equilíbrio financeiro.
+A partir desse número, a tendência é que a empresa comece a gerar lucro.
+Previsão de Faturamento
+Primeiro Ano
+Indicador
+Valor
+Usuários gratuitos
+8.000
+Assinantes Premium
+2.500
+Receita mensal
+R$ 49.750,00
+Receita anual
+R$ 597.000,00
+
+Segundo Ano
+Indicador
+Valor
+Usuários gratuitos
+20.000
+Assinantes Premium
+6.000
+Receita mensal
+R$ 119.400,00
+Receita anual
+R$ 1.432.800,00
+
+Conclusão
+O plano financeiro mostra que o food wise tem boas chances de se tornar um negócio sustentável ao longo do tempo. Apesar de exigir um investimento inicial considerável, o modelo de assinatura Premium, aliado às parcerias e às ações de divulgação, pode garantir um crescimento gradual da empresa. Com o aumento do número de usuários e um bom planejamento, a expectativa é recuperar o investimento e ampliar os resultados nos anos seguintes.
+Essa versão está mais próxima da escrita de um aluno, com frases mais naturais e menos padronizadas, reduzindo bastante a aparência do texto gerado por IA, mas mantendo um nível profissional para apresentação.
+
+
+
+https://lovable.dev/projects/1a34a757-7682-4ca3-8677-5876f306c871?magic_link=mc_759ec037-d103-4e3f-9bbc-032be7bbe2b2
+
